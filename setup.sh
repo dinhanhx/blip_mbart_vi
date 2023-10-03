@@ -3,4 +3,4 @@ conda activate torch-gpu
 
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-pip install transformers ipykernel click sentencepiece
+pip install transformers ipykernel click sentencepiece pandas
